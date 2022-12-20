@@ -1,5 +1,5 @@
 
-<div class="wrapper row3 ">
+
     <div id="container">
         <div class="row align-items-start">
             <div id="sidebar_1" class="sidebar one_quarter first col-2">

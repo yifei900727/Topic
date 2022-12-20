@@ -1,4 +1,4 @@
-<div class="wrapper row3">
+
   <div id="container">
     <!-- ################################################################################################ -->
     <div id="sidebar_1" class="sidebar one_quarter first">
@@ -38,11 +38,11 @@
         var str = ``;
         for (let i = 0; i < e.length; i++) {
         let str1 = `
-        <div class="card clo" style="width: 18rem;height:570px">
-                  <img src="${e[i].V_img}" class="card-img-top" alt="..." style="height:288px">
+        <div class="card clo aaa" style="width: 18rem;height:570px">
+                  <img src="${e[i].V_img}" class="card-img-top bbb" alt="..." style="height:288px">
                   <div class="card-body">
                     <h5 class="card-title"></h5>
-                    <p class="card-text"><strong>主辦單位:</strong>${e[i].V_organizer}</p>
+                    <p class="card-text txt"><strong>主辦單位:</strong>${e[i].V_organizer}</p>
                     <p class="card-text"><strong>地址:</strong>${e[i].V_local}</p>
                     <p class = "txt"><strong>${e[i].V_Introduction}</strong></p>
                     <footer class="read-more">
@@ -54,7 +54,7 @@
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
                             <div class="modal-header">
-                              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><img src="https://pic.616pic.com/ys_bnew_img/00/08/11/RamFewF8kG.jpg" class="card-img-top" alt="..." style="height: 15px; width: 15px;"></button>
+                              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <img src="${e[i].V_img}" class="card-img-top" alt="..."  style="height: auto; width: auto; display:block; margin:auto;">
                             <div class="modal-body">
@@ -89,8 +89,8 @@
           
             // if (i % 3 == 0) {
               let str1 = `
-              <div class="card clo" style="width: 18rem;height:570px">
-                  <img src="${e[i].V_img}" class="card-img-top" alt="..." style="height:288px">
+              <div class="card clo aaa" style="width: 18rem;height:570px">
+                  <img src="${e[i].V_img}" class="card-img-top bbb" alt="..." style="height:288px">
                   <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text"><strong>主辦單位:</strong>${e[i].V_organizer}</p>
@@ -105,7 +105,7 @@
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
                             <div class="modal-header">
-                              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><img src="https://pic.616pic.com/ys_bnew_img/00/08/11/RamFewF8kG.jpg" class="card-img-top" alt="..." style="height: 15px; width: 15px;"></button>
+                              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <img src="${e[i].V_img}" class="card-img-top" alt="..."  style="height: auto; width: auto; display:block; margin:auto;">
                             <div class="modal-body">
@@ -138,10 +138,10 @@
           for (let i = 0; i < e.length; i++) {
             
                     
-              let str1 = `<div class="card clo" style="width: 18rem;height:570px">
-                  <img src="${e[i].A_img}" class="card-img-top" alt="..." style="height:288px">
+              let str1 = `<div class="card clo aaa" style="width: 18rem;height:570px">
+                  <img src="${e[i].A_img}" class="card-img-top bbb" alt="..." style="height:288px">
                   <div class="card-body">
-                    <h5 class="card-title">${e[i].A_name}</h5>
+                    <h5 class="card-title txt">${e[i].A_name}</h5>
                     <p class="card-text txt"><strong>地址:</strong>${e[i].A_local}</p>
                           `;
               str += str1;
@@ -160,7 +160,7 @@
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
                             <div class="modal-header">
-                              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><img src="https://pic.616pic.com/ys_bnew_img/00/08/11/RamFewF8kG.jpg" class="card-img-top" alt="..." style="height: 15px; width: 15px;"></button>
+                              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <img src="${e[i].A_img}" class="card-img-top" alt="..." style="height:288px">
                             <div class="card-body">

@@ -10,15 +10,12 @@
 <html lang="Zh-TW">
 
 <head>
-    <!-- <link href="<?= base_url() ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
-    <script src="<?= base_url() ?>/js/bootstrap.bundle.min.js"></script>
-    <script src="<?= base_url() ?>/js/popper.min.js"></script>
-    <script src="<?= base_url() ?>/js/bootstrap.min.js"></script>
-     -->
+   
     <title>I 福了 U</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="love.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
     <link href="<?= base_url() ?>/as/styles/main.css" rel="stylesheet" type="text/css" media="all">
     <link href="<?= base_url() ?>/as/styles/mediaqueries.css" rel="stylesheet" type="text/css" media="all">
     <link href="<?= base_url() ?>/as/styles/modal-dialog.css" rel="stylesheet" type="text/css" media="all">
@@ -46,7 +43,7 @@
 
 </head>
 
-<nav class="navbar navbar-light bg-light static-top">
+
     <div class="wrapper row1">
         <header id="header" class="full_width clear">
             <div id="topnav" class="position-relative">
@@ -69,5 +66,4 @@
 
         </header>
     </div>
-
-</nav>
+    <div class="wrapper row3" style="background-color: #f0eee4;">

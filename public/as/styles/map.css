@@ -1,9 +1,25 @@
 #map {
-    height: 400px;
-    /* The height is 400 pixels */
-    width: 100%;
-    /* The width is the width of the web page */
-  }
-.colxx{
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+
+.colxx {
   flex: 1 0 auto;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+.aaa {
+
+  background-color: #fff2f2db;
+}
+
+.bbb {
+  border-radius: 9rem;
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
 }

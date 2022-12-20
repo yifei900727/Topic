@@ -1,4 +1,4 @@
-<div class="wrapper row3">
+
   <div id="container">
     <div id="sidebar_1" class="sidebar one_quarter first">
       <aside>
@@ -41,8 +41,8 @@
       for (let i = 0; i < e.length; i++) {
 
         let str1 = `
-                        <div class="card clo" style="width: 18rem; height:450px">
-                  <img src="${e[i].H_img}" class="card-img-top" alt="..." style="height:170px">
+                        <div class="card clo aaa" style="width: 18rem; height:450px">
+                  <img src="${e[i].H_img}" class="card-img-top bbb" alt="..." style="height:170px">
                   <div class="card-body">
                     <h5 class="card-title">${e[i].H_name}</h5>
                     <p class="card-text"><strong>電話:</strong>${e[i].H_number}</p>
@@ -73,8 +73,8 @@
         for (let i = 0; i < e.length; i++) {
 
           let str1 = `
-                        <div class="card clo" style="width: 18rem; height:450px">
-                  <img src="${e[i].H_img}" class="card-img-top" alt="..." style="height:170px">
+                        <div class="card clo aaa" style="width: 18rem; height:450px">
+                  <img src="${e[i].H_img}" class="card-img-top bbb" alt="..." style="height:170px">
                   <div class="card-body">
                     <h5 class="card-title">${e[i].H_name}</h5>
                     <p class="card-text"><strong>電話:</strong>${e[i].H_number}</p>
@@ -106,8 +106,8 @@
         for (let i = 0; i < e.length; i++) {
 
           let str1 = `
-                        <div class="card clo" style="width: 18rem; height:520px">
-                  <img src="${e[i].NH_img}" class="card-img-top" alt="..." style="height:220px">
+                        <div class="card clo aaa" style="width: 18rem; height:520px">
+                  <img src="${e[i].NH_img}" class="card-img-top bbb" alt="..." style="height:220px">
                   <div class="card-body">
                     <h5 class="card-title">${e[i].NH_name}</h5>
                     <p class="card-text"><strong>電話:</strong>${e[i].NH_number}</p>
