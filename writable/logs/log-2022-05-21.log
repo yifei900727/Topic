@@ -1,0 +1,60 @@
+CRITICAL - 2022-05-21 04:58:05 --> Invalid file: End.php
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('End.php')
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/Common.php(1089): CodeIgniter\View\View->render('End', Array, true)
+#2 /mnt/c/websites/Social Welfare/Social Welfare/app/Controllers/EndCon.php(13): view('End')
+#3 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\EndCon->index()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EndCon))
+#5 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#8 {main}
+CRITICAL - 2022-05-21 04:58:42 --> Invalid file: End.php
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('End.php')
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/Common.php(1089): CodeIgniter\View\View->render('End', Array, true)
+#2 /mnt/c/websites/Social Welfare/Social Welfare/app/Controllers/EndCon.php(13): view('End')
+#3 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\EndCon->index()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EndCon))
+#5 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#8 {main}
+CRITICAL - 2022-05-21 04:59:56 --> Invalid file: End.php
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('End.php')
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/Common.php(1089): CodeIgniter\View\View->render('End', Array, true)
+#2 /mnt/c/websites/Social Welfare/Social Welfare/app/Controllers/EndCon.php(13): view('End')
+#3 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\EndCon->index()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EndCon))
+#5 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#8 {main}
+CRITICAL - 2022-05-21 05:00:35 --> Invalid file: End.php
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('End.php')
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/Common.php(1089): CodeIgniter\View\View->render('End', Array, true)
+#2 /mnt/c/websites/Social Welfare/Social Welfare/app/Controllers/EndCon.php(13): view('End')
+#3 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\EndCon->index()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EndCon))
+#5 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#8 {main}
+CRITICAL - 2022-05-21 05:02:59 --> Invalid file: End.php
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('End.php')
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/Common.php(1089): CodeIgniter\View\View->render('End', Array, true)
+#2 /mnt/c/websites/Social Welfare/Social Welfare/app/Controllers/EndCon.php(13): view('End')
+#3 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\EndCon->index()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EndCon))
+#5 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#8 {main}
+CRITICAL - 2022-05-21 05:10:18 --> Invalid file: Endof.php
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Endof.php')
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/Common.php(1089): CodeIgniter\View\View->render('Endof', Array, true)
+#2 /mnt/c/websites/Social Welfare/Social Welfare/app/Controllers/EndofCon.php(10): view('Endof')
+#3 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\EndofCon->index()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EndofCon))
+#5 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#8 {main}

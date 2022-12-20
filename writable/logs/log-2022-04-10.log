@@ -1,0 +1,33 @@
+CRITICAL - 2022-04-10 03:24:32 --> Invalid file: title.php
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('title.php')
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/Common.php(1089): CodeIgniter\View\View->render('title', Array, true)
+#2 /mnt/c/websites/Social Welfare/Social Welfare/app/Controllers/Home.php(10): view('title')
+#3 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\Home->index()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#8 {main}
+CRITICAL - 2022-04-10 03:25:39 --> Invalid file: title.php
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('title.php')
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/Common.php(1089): CodeIgniter\View\View->render('title', Array, true)
+#2 /mnt/c/websites/Social Welfare/Social Welfare/app/Controllers/Home.php(10): view('title')
+#3 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\Home->index()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#8 {main}
+CRITICAL - 2022-04-10 03:25:58 --> Invalid file: title.php
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('title.php')
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/Common.php(1089): CodeIgniter\View\View->render('title', Array, true)
+#2 /mnt/c/websites/Social Welfare/Social Welfare/app/Controllers/Home.php(10): view('title')
+#3 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\Home->index()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#8 {main}
+CRITICAL - 2022-04-10 04:18:06 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

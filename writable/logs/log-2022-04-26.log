@@ -1,0 +1,392 @@
+CRITICAL - 2022-04-26 04:29:02 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:29:29 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:29:48 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:31:10 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:32:05 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:32:21 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:32:51 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:33:52 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:41:52 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:50:48 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:52:16 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:53:10 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 04:58:08 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 05:00:32 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 05:00:43 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 05:01:44 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 05:03:43 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 05:04:37 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 05:04:50 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 05:06:13 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:06:48 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:11:23 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:12:51 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:14:53 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:17:16 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:28:49 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:30:52 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:31:32 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hos()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:33:55 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:36:26 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:43:38 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:43:43 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:50:08 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:50:44 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:50:58 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:51:58 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:52:27 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:52:46 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:53:10 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:54:33 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:57:13 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:58:07 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:58:19 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:58:45 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 21:59:12 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 22:00:03 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 22:05:29 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 23:26:03 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 23:26:23 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 23:26:30 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 23:29:51 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 23:38:40 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->hoscon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 23:48:50 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->HosCon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 23:56:18 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->HosCon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 23:56:49 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->HosCon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}
+CRITICAL - 2022-04-26 23:57:15 --> Class 'app\Models\HosMod' not found
+#0 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(832): App\Controllers\HospitalCon->HosCon()
+#1 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HospitalCon))
+#2 /mnt/c/websites/Social Welfare/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /mnt/c/websites/Social Welfare/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /mnt/c/websites/Social Welfare/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('/mnt/c/websites...')
+#5 {main}

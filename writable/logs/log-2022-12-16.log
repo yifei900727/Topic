@@ -1,0 +1,8 @@
+CRITICAL - 2022-12-16 20:42:25 --> json_encode(): Argument #2 ($flags) must be of type int, array given
+#0 /mnt/c/websites/Social Welfare/app/Controllers/EndofCon.php(31): json_encode()
+#1 /mnt/c/websites/Social Welfare/system/CodeIgniter.php(832): App\Controllers\EndofCon->coordinate1()
+#2 /mnt/c/websites/Social Welfare/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 /mnt/c/websites/Social Welfare/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 /mnt/c/websites/Social Welfare/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /mnt/c/websites/Social Welfare/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}

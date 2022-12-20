@@ -1,0 +1,44 @@
+CRITICAL - 2022-10-25 08:39:13 --> Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+#0 C:\websites\Social Welfare\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver()
+#1 C:\websites\Social Welfare\system\Database\Config.php(78): CodeIgniter\Database\Database->load()
+#2 C:\websites\Social Welfare\system\Model.php(97): CodeIgniter\Database\Config::connect()
+#3 C:\websites\Social Welfare\app\Controllers\VolunteerCon.php(20): CodeIgniter\Model->__construct()
+#4 C:\websites\Social Welfare\system\CodeIgniter.php(832): App\Controllers\VolunteerCon->act()
+#5 C:\websites\Social Welfare\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 C:\websites\Social Welfare\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 C:\websites\Social Welfare\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\websites\Social Welfare\system\Commands\Server\rewrite.php(43): require_once('...')
+#9 {main}
+CRITICAL - 2022-10-25 08:39:20 --> Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+#0 C:\websites\Social Welfare\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver()
+#1 C:\websites\Social Welfare\system\Database\Config.php(78): CodeIgniter\Database\Database->load()
+#2 C:\websites\Social Welfare\system\Model.php(97): CodeIgniter\Database\Config::connect()
+#3 C:\websites\Social Welfare\app\Controllers\VolunteerCon.php(28): CodeIgniter\Model->__construct()
+#4 C:\websites\Social Welfare\system\CodeIgniter.php(832): App\Controllers\VolunteerCon->vol()
+#5 C:\websites\Social Welfare\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 C:\websites\Social Welfare\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 C:\websites\Social Welfare\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\websites\Social Welfare\system\Commands\Server\rewrite.php(43): require_once('...')
+#9 {main}
+CRITICAL - 2022-10-25 08:39:22 --> Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+#0 C:\websites\Social Welfare\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver()
+#1 C:\websites\Social Welfare\system\Database\Config.php(78): CodeIgniter\Database\Database->load()
+#2 C:\websites\Social Welfare\system\Model.php(97): CodeIgniter\Database\Config::connect()
+#3 C:\websites\Social Welfare\app\Controllers\EndofCon.php(18): CodeIgniter\Model->__construct()
+#4 C:\websites\Social Welfare\system\CodeIgniter.php(832): App\Controllers\EndofCon->Fs()
+#5 C:\websites\Social Welfare\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 C:\websites\Social Welfare\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 C:\websites\Social Welfare\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\websites\Social Welfare\system\Commands\Server\rewrite.php(43): require_once('...')
+#9 {main}
+CRITICAL - 2022-10-25 08:43:28 --> Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+#0 C:\websites\Social Welfare\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver()
+#1 C:\websites\Social Welfare\system\Database\Config.php(78): CodeIgniter\Database\Database->load()
+#2 C:\websites\Social Welfare\system\Model.php(97): CodeIgniter\Database\Config::connect()
+#3 C:\websites\Social Welfare\app\Controllers\VolunteerCon.php(20): CodeIgniter\Model->__construct()
+#4 C:\websites\Social Welfare\system\CodeIgniter.php(832): App\Controllers\VolunteerCon->act()
+#5 C:\websites\Social Welfare\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 C:\websites\Social Welfare\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 C:\websites\Social Welfare\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\websites\Social Welfare\system\Commands\Server\rewrite.php(43): require_once('...')
+#9 {main}
